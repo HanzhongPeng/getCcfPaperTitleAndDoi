@@ -1,0 +1,84 @@
+Optical fibre LANs for mixed data traffic.
+doi.org/10.1016/0140-3664(88)90002-3
+Analysis of access protocols for an automatic meter reading system.
+doi.org/10.1016/0140-3664(88)90003-5
+Chat: an N-party talk facility for the Unix 4.2 operating system.
+doi.org/10.1016/0140-3664(88)90004-7
+Towards the integrated broadband communication network.
+doi.org/10.1016/0140-3664(88)90005-9
+The GEC 420 DataPhone - a terminal for the ISDN.
+doi.org/10.1016/0140-3664(88)90006-0
+Performance analysis in local area networks of interconnected token rings.
+doi.org/10.1016/0140-3664(88)90093-X
+Open Systems interconnection: a migration path.
+doi.org/10.1016/0140-3664(88)90094-1
+Performance comparison of PC LAN file servers - an experimental study.
+doi.org/10.1016/0140-3664(88)90095-3
+Open Systems Interconnection: The future prospects.
+doi.org/10.1016/0140-3664(88)90096-5
+Design and implementation of a LAN monitoring tool.
+doi.org/10.1016/0140-3664(88)90097-7
+Local area network bridges.
+doi.org/10.1016/0140-3664(88)90057-6
+Current fieldbus activities.
+doi.org/10.1016/0140-3664(88)90058-8
+Computer simulation of a packet switching computer network.
+doi.org/10.1016/0140-3664(88)90059-X
+Software architecture of an X.400 electronic mail system.
+doi.org/10.1016/0140-3664(88)90060-6
+TextDirect - a virtual telex system.
+doi.org/10.1016/0140-3664(88)90061-8
+Modernization of the UK Army Fixed Telecommunication System.
+doi.org/10.1016/0140-3664(88)90062-X
+Editorial.
+doi.org/10.1016/0140-3664(88)90076-X
+International extension of ISDN and terminal implications.
+doi.org/10.1016/0140-3664(88)90077-1
+British Telecom's ISDN.
+doi.org/10.1016/0140-3664(88)90078-3
+Trends in telecommunications standardization at the European level.
+doi.org/10.1016/0140-3664(88)90079-5
+Broadband ISDN.
+doi.org/10.1016/0140-3664(88)90080-1
+Private network signalling.
+doi.org/10.1016/0140-3664(88)90081-3
+User-network interfaces.
+doi.org/10.1016/0140-3664(88)90082-5
+ISPBXs and terminals.
+doi.org/10.1016/0140-3664(88)90083-7
+Collision-free protocol for local area networks.
+doi.org/10.1016/0140-3664(88)90084-9
+Concurrent system analysis using Petri nets: an optimized algorithm for finding net invariants.
+doi.org/10.1016/0140-3664(88)90085-0
+Editorial.
+doi.org/10.1016/0140-3664(88)90030-8
+Fibre optic LAN topology, access protocols and standards.
+doi.org/10.1016/0140-3664(88)90031-X
+X.25 - the fulcrum for network standardization.
+doi.org/10.1016/0140-3664(88)90032-1
+Electronic directory services.
+doi.org/10.1016/0140-3664(88)90033-3
+Are new technologies really reshaping our organizations?
+doi.org/10.1016/0140-3664(88)90034-5
+Telecommunications development in New Zealand.
+doi.org/10.1016/0140-3664(88)90035-7
+Computer communications for industrial automation: the MAP protocols.
+doi.org/10.1016/0140-3664(88)90036-9
+Network management evolution.
+doi.org/10.1016/0140-3664(88)90037-0
+Distributed database development.
+doi.org/10.1016/0140-3664(88)90038-2
+Communication network optimization.
+doi.org/10.1016/0140-3664(88)90039-4
+Behavioural approach to OSI system design.
+doi.org/10.1016/0140-3664(88)90041-2
+Design, development and application of an intelligent token.
+doi.org/10.1016/0140-3664(88)90042-4
+Performance investigation of a token passing access protocol for a multichannel optical fibre LAN.
+doi.org/10.1016/0140-3664(88)90043-6
+Transactions involving multicast.
+doi.org/10.1016/0140-3664(88)90044-8
+Document formatting for interchange between word processors.
+doi.org/10.1016/0140-3664(88)90045-X
+Data communications network for a merchant bank.
+doi.org/10.1016/0140-3664(88)90046-1
